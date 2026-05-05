@@ -14,7 +14,7 @@ echo "<body>";
 
 echo "<h1>Historia de la Química</h1>";
 
-echo "<p>La química es una ciencia que estudia la composición, estructura y propiedades de la materia. Su historia se remonta a la antigüedad.</p>";
+echo "<p>La química es una ciencia: que estudia la composición, estructura y propiedades de la materia. Su historia se remonta a la antigüedad.</p>";
 
 echo "<h2>Antigüedad</h2>";
 echo "<p>En las primeras civilizaciones, como Egipto y Mesopotamia, se practicaban técnicas como la metalurgia, la fabricación de vidrio y la medicina basada en sustancias naturales.</p>";
